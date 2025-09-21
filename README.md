@@ -1,2 +1,4 @@
 # ml-fundamentals
-Refreshing ml concepts for interview prep. 
+Home for learning ML from the ground up.
+
+1. 
