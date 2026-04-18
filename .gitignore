@@ -1,5 +1,12 @@
 # Data and model artifacts
-data/
+dict-learning/data/*
+!dict-learning/data/README.md
+language/data/*
+!language/data/README.md
+vision/data/*
+!vision/data/README.md
+**/data/*
+!**/data/README.md
 model/
 checkpoints/
 cache/
