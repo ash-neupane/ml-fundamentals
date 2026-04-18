@@ -3,6 +3,10 @@ data/
 model/
 checkpoints/
 cache/
+*.pt
+*.ckpt
+*.pth
+*.safetensors
 
 # mac
 .DS_Store
@@ -132,6 +136,7 @@ celerybeat.pid
 
 # Environments
 .env
+.env.*
 .venv
 env/
 venv/
